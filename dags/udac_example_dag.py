@@ -14,8 +14,8 @@ from airflow.operators.python_operator import PythonOperator
 # AWS_KEY = os.environ.get('AWS_KEY')
 # AWS_SECRET = os.environ.get('AWS_SECRET')
 
-AWS_KEY = 'AKIAYXSWZ2SYWMVTVRFM'
-AWS_SECRET = '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'
+AWS_KEY = #####
+AWS_SECRET = #####
 
 default_args = {
     'owner': 'udacity',
